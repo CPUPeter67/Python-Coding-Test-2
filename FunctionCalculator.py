@@ -20,4 +20,4 @@ try:
 except ZeroDivisionError:
     print("You cannot divide by zero. You will always achieve zero!")
 except ValueError:
-    print("Your input is not numerical! Please enter a different number.")    
+    print("Your input is not numerical! Please enter the correct value.")
