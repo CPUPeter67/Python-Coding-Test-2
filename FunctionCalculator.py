@@ -1,3 +1,4 @@
+print("In this program, your input will be used to calculate the result of basic arithmetic operations.")
 def addition(a, b):
     return(a + b)
 def subtraction(a, b):
